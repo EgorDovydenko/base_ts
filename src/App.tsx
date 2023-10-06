@@ -1,8 +1,9 @@
 import * as React from 'react';
+import { TestComponent } from './components/TestComponent/Test';
 
 const App = () => {
  return (
-  <h3> Welcome to React Boilerplate 1 </h3>
+  <TestComponent />
  )
 }
 export default App;
