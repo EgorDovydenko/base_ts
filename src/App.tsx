@@ -3,8 +3,8 @@ import { TestComponent } from './components/TestComponent/Test';
 import './style/global.scss';
 
 const App = () => {
- return (
-  <TestComponent />
- )
-}
+	return (
+		<TestComponent />
+	);
+};
 export default App;
