@@ -1,9 +1,9 @@
 import React from 'react';
-import './Test.scss';
+import style from './Test.module.scss';
 
 export const TestComponent = () => {
     return (
-        <div className='test'>
+        <div className={style.test}>
             <h1>Hello this is test</h1>
         </div>
     )
