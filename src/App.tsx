@@ -1,10 +1,11 @@
-import * as React from 'react';
-import { TestComponent } from './components/TestComponent/Test';
 import './style/global.scss';
+import { BookSelector } from './components/BookSelector/BookSelector';
 
 const App = () => {
 	return (
-		<TestComponent />
+		<>
+			<BookSelector />
+		</>
 	);
 };
 export default App;

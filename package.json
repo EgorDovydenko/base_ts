@@ -34,6 +34,8 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "html-webpack-plugin": "^5.5.3",
     "mini-css-extract-plugin": "^2.7.6",
+    "mobx": "^6.10.2",
+    "mobx-react-lite": "^4.0.5",
     "sass": "^1.69.0",
     "sass-loader": "^13.3.2",
     "source-map-loader": "^4.0.1",
